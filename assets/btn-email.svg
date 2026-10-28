@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103" height="36" viewBox="0 0 103 36" role="img" aria-label="say hi"><title>say hi</title><style>
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.sans{font-family:ui-sans-serif,-apple-system,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style><rect x="0.5" y="0.5" width="102" height="35" rx="18" fill="#0b0b12" stroke="#ff4fa3" stroke-opacity=".7"/><text x="16" y="23.5" font-size="14" class="sans">✉️</text><text class="mono" x="38" y="23" font-size="13.5" font-weight="700" fill="#ecebf5" textLength="49.2">say hi</text></svg>
